@@ -20,14 +20,20 @@
 </div>
 
 ## 🛠️ Languages and Tools
-
 <br>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,go" />
   <img src="https://skillicons.dev/icons?i=html,css,js,git" />
 </p>
-
 <hr>
 
+## ⚡️ Stats
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zoom26042604&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Nathan+FERRE's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zoom26042604&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Nathan+FERRE's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=zoom26042604&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Nathan+FERRE's Most Used Languages" />
+</div>
+
+<hr>
 <hr>
