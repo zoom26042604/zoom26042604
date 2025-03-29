@@ -1,3 +1,7 @@
+# 💫 About Me:
+🔭 I’m currently working on a personal portfolio<br>🤝 I’m looking for help with next.js for my portfolio<br>🌱 I’m currently learning to code in different language and to broaden my knowledge in coding<br>
+
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathanferre06@gmail.com) 
 
@@ -23,4 +27,5 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zoom2604) 
 
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
