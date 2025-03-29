@@ -4,10 +4,6 @@
 
 ### A Student that is learning how to code.
 
-
-- 🌱 I’m currently learning 
-- 💬 Ask me about *
-
 <br>
 
 <div align="center">
