@@ -1,7 +1,7 @@
-<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:FA810F,100:FA810F&height=200&section=header&text=Nathan FERRE&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Infrastructure%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20Cloud&descAlignY=55&descAlign=50&fontFamily=Raleway"/>
+<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:FA810F,100:FA810F&height=200&section=header&text=Nathan%20FERRE&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Infrastructure%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20Cloud&descAlignY=55&descAlign=50&fontFamily=Raleway"/>
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FA810F&center=true&vCenter=true&random=false&width=680&lines=Bachelor+in+Infrastructure+%40+Ynov;Junior+Dev+—+React+·+Next.js+·+Node.js;Cloud+%26+DevOps+—+OVH+·+Docker+·+Kubernetes;" />
+  <img alt="Typing SVG" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/typing.svg" />
 </p>
 
 <img width="100%" alt="About Me" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/about-me.svg"/>
