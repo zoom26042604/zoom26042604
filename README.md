@@ -4,7 +4,7 @@
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FA810F&center=true&vCenter=true&random=false&width=680&lines=Bachelor+in+Infrastructure+%40+Ynov;Junior+Dev+—+React+·+Next.js+·+Node.js;Cloud+%26+DevOps+—+OVH+·+Docker+·+Kubernetes;" />
 </p>
 
-<img width="100%" alt="About Me" src="banners/about-me.svg"/>
+<img width="100%" alt="About Me" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/about-me.svg"/>
 
 I'm a student at **Ynov Campus** preparing a **Bachelor in Infrastructure**.
 I design and build full-stack web applications and I'm actively expanding into cloud, containerization, orchestration, and Cloud deployments.
@@ -12,7 +12,7 @@ I design and build full-stack web applications and I'm actively expanding into c
 I'm equally comfortable writing a REST API in Go, spinning up a Docker environment, or fine-tuning a UI in Tailwind.
 As hobbies, I love reading, play games, follow tech news and enjoy tinkering with anything that runs on a server. That's pretty much it.
 
-<img width="100%" alt="Technologies" src="banners/technologies.svg"/>
+<img width="100%" alt="Technologies" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/technologies.svg"/>
 
 <p align="center">
   <img alt="Languages: TypeScript, JavaScript, Python, Go, Bash, Flutter" src="https://skillicons.dev/icons?i=ts,js,py,go,bash,flutter&theme=dark" />
@@ -30,7 +30,7 @@ As hobbies, I love reading, play games, follow tech news and enjoy tinkering wit
   <img alt="Tools: PostgreSQL, MySQL, Git, GitHub, Figma, Postman" src="https://skillicons.dev/icons?i=postgres,mysql,git,github,figma,postman&theme=dark" />
 </p>
 
-<img width="100%" alt="Projects" src="banners/projects.svg"/>
+<img width="100%" alt="Projects" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/projects.svg"/>
 
 **[azrael](https://github.com/zoom26042604/azrael)** `s` is a TypeScript web application I'm currently building.
 
