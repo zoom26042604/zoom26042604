@@ -1,28 +1,58 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:FA810F,100:FA810F&height=200&section=header&text=Nathan FERRE&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Infrastructure%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20Cloud&descAlignY=55&descAlign=50&fontFamily=Raleway"/>
 
+<p align="center">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FA810F&center=true&vCenter=true&random=false&width=680&lines=Bachelor+in+Infrastructure+%40+Ynov;Junior+Dev+—+React+·+Next.js+·+Node.js;Cloud+%26+DevOps+—+OVH+·+Docker+·+Kubernetes;" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-ferre-0ba3a438a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathan.ferre@ynov.com) 
+<img width="100%" alt="About Me" src="banners/about-me.svg"/>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zoom26042604&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zoom26042604&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoom26042604&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a student at **Ynov Campus** preparing a **Bachelor in Infrastructure**.
+I design and build full-stack web applications and I'm actively expanding into cloud, containerization, orchestration, and Cloud deployments.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zoom26042604&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+I'm equally comfortable writing a REST API in Go, spinning up a Docker environment, or fine-tuning a UI in Tailwind.
+As hobbies, I love reading, play games, follow tech news and enjoy tinkering with anything that runs on a server. That's pretty much it.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img width="100%" alt="Technologies" src="banners/technologies.svg"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zoom26042604&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<p align="center">
+  <img alt="Languages: TypeScript, JavaScript, Python, Go, Bash, Flutter" src="https://skillicons.dev/icons?i=ts,js,py,go,bash,flutter&theme=dark" />
+</p>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/zoom2604) 
+<p align="center">
+  <img alt="Frontend: React, Next.js, Tailwind, HTML, CSS" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+</p>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img alt="Backend & DevOps: Node.js, Express, Docker, Kubernetes, Nginx" src="https://skillicons.dev/icons?i=nodejs,express,docker,kubernetes,nginx&theme=dark" />
+</p>
+
+<p align="center">
+  <img alt="Tools: PostgreSQL, MySQL, Git, GitHub, Figma, Postman" src="https://skillicons.dev/icons?i=postgres,mysql,git,github,figma,postman&theme=dark" />
+</p>
+
+<img width="100%" alt="Projects" src="banners/projects.svg"/>
+
+**[azrael](https://github.com/zoom26042604/azrael)** `s` is a TypeScript web application I'm currently building.
+
+**[cv](https://github.com/zoom26042604/cv)** `s` is my personal portfolio and CV, built with TypeScript and kept up to date.
+
+**[game-2048](https://github.com/zoom26042604/game-2048)** `s` is a clean TypeScript implementation of the classic 2048 game.
+
+**[DrinkUp](https://github.com/zoom26042604/DrinkUp)** `wip` is a drink tracking application made with Flutter.
+
+**[Forum-Ynov](https://github.com/AlexandreRiv/LeForum)** `f` is a full forum web application built as a school project at Ynov.
+
+_f — finished · s — stable / maintained · wip — work in progress_
+
+<details>
+  <summary>contact & socials</summary>
+
+_LinkedIn_ › [Nathan FERRE](https://linkedin.com/in/nathan-ferre-0ba3a438a)
+
+_Mail_ › <nathan.ferre@ynov.com> ou <nathanferre06@gmail.com>
+
+_GitHub_ › zoom26042604
+
+</details>
+
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA000,100:FF4500&height=120&section=footer&fontFamily=Raleway"/>
