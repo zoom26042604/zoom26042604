@@ -1,9 +1,5 @@
 <img width="100%" alt="Nathan FERRE" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/header.svg"/>
 
-<p align="center">
-  <img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=zoom26042604.profile&left_color=%23181825&right_color=%23fab387&left_text=Profile%20Views" />
-</p>
-
 <img width="100%" alt="About Me" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/about-me.svg"/>
 
 I'm a student at **Ynov Campus** preparing a **Bachelor in Infrastructure**.
@@ -43,9 +39,9 @@ As hobbies, I love reading, playing games, following tech news, and tinkering wi
 
 <img width="100%" alt="Projects" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/projects.svg"/>
 
-**[azrael](https://github.com/zoom26042604/azrael)** `s` is a TypeScript web application I'm currently building.
+**[azrael](https://github.com/zoom26042604/azrael)** `s` is my personal portfolio, built in TypeScript and i'm currently building it.
 
-**[cv](https://github.com/zoom26042604/cv)** `s` is my personal portfolio and CV, built with TypeScript and kept up to date.
+**[cv](https://github.com/zoom26042604/cv)** `s` is my personal CV, built with TypeScript and kept up to date.
 
 **[game-2048](https://github.com/zoom26042604/game-2048)** `s` is a clean TypeScript implementation of the classic 2048 game.
 
