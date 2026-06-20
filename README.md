@@ -19,6 +19,7 @@ As hobbies, I love reading, playing games, following tech news, and tinkering wi
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=fab387" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-1e1e2e?style=for-the-badge&logo=dart&logoColor=fab387" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=fab387" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-1e1e2e?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZhYjM4NyIgZD0iTTMuNiA0LjNsOC43IDcuM2EuNi42IDAgMCAxIDAgLjlsLTguNyA3LjJhLjYuNiAwIDAgMS0uOS0uOGw3LjktNi45LTcuOS02LjlhLjYuNiAwIDAgMSAuOS0uOXoiLz48cmVjdCBmaWxsPSIjZmFiMzg3IiB4PSIxMi4zIiB5PSIxNy40IiB3aWR0aD0iOC40IiBoZWlnaHQ9IjIuMyIgcng9IjEuMSIvPjwvc3ZnPg%3D%3D" />
 </p>
 
 <p align="center">
@@ -40,8 +41,16 @@ As hobbies, I love reading, playing games, following tech news, and tinkering wi
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=fab387" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-1e1e2e?style=for-the-badge&logo=kubernetes&logoColor=fab387" />
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-1e1e2e?style=for-the-badge&logo=nginx&logoColor=fab387" />
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-1e1e2e?style=for-the-badge&logo=ansible&logoColor=fab387" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-1e1e2e?style=for-the-badge&logo=githubactions&logoColor=fab387" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=fab387" />
+  <img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-1e1e2e?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZhYjM4NyIgZD0iTTAgMy40NDlMOS43NSAyLjF2OS40NTFIMG0xMC45NDktOS42MDJMMjQgMHYxMS40SDEwLjk0OU0wIDEyLjZoOS43NXY5LjQ1MUwwIDIwLjY5OU0xMC45NDkgMTIuNkgyNFYyNGwtMTIuOS0xLjgwMSIvPjwvc3ZnPg%3D%3D" />
+</p>
+
+<p align="center">
+  <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1e1e2e?style=for-the-badge&logo=cisco&logoColor=fab387" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1e1e2e?style=for-the-badge&logo=wireshark&logoColor=fab387" />
+  <img alt="OpenSSL" src="https://img.shields.io/badge/OpenSSL-1e1e2e?style=for-the-badge&logo=openssl&logoColor=fab387" />
 </p>
 
 <p align="center">
