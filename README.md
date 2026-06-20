@@ -1,14 +1,10 @@
-<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:FA810F,100:FAB387&height=200&section=header&text=Nathan%20FERRE&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Infrastructure%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20Cloud&descAlignY=55&descAlign=50&fontFamily=Raleway"/>
+<img width="100%" alt="Nathan FERRE" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/header.svg?v=mp"/>
 
 <p align="center">
-  <img alt="Typing SVG" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/typing.svg" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=zoom26042604&color=fab387&style=flat&label=Profile+Views" />
 </p>
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=zoom26042604&color=FA810F&style=flat&label=Profile+Views" />
-</p>
-
-<img width="100%" alt="About Me" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/about-me.svg"/>
+<img width="100%" alt="About Me" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/about-me.svg?v=mp"/>
 
 I'm a student at **Ynov Campus** preparing a **Bachelor in Infrastructure**.
 I design and build full-stack web applications and I'm actively expanding into cloud, containerization, orchestration, and Cloud deployments.
@@ -16,7 +12,7 @@ I design and build full-stack web applications and I'm actively expanding into c
 I'm equally comfortable writing a REST API in Go, spinning up a Docker environment, or fine-tuning a UI in Tailwind.
 As hobbies, I love reading, playing games, following tech news, and tinkering with anything that runs on a server.
 
-<img width="100%" alt="Technologies" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/technologies.svg"/>
+<img width="100%" alt="Technologies" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/technologies.svg?v=mp"/>
 
 <p align="center">
   <img alt="Languages: TypeScript, JavaScript, Python, Go, Bash, Flutter" src="https://skillicons.dev/icons?i=ts,js,py,go,bash,flutter&theme=dark" />
@@ -34,16 +30,18 @@ As hobbies, I love reading, playing games, following tech news, and tinkering wi
   <img alt="Tools: PostgreSQL, MySQL, Git, GitHub, Figma, Postman" src="https://skillicons.dev/icons?i=postgres,mysql,git,github,figma,postman&theme=dark" />
 </p>
 
+<img width="100%" alt="Stats" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/stats.svg?v=mp"/>
+
 <p align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zoom26042604&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=FA810F&icon_color=FAB387&text_color=C9D1D9&bg_color=0D1117" />
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoom26042604&layout=compact&hide_border=true&langs_count=8&title_color=FA810F&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zoom26042604&show_icons=true&count_private=true&include_all_commits=true&border_color=313244&title_color=fab387&icon_color=fab387&text_color=cdd6f4&bg_color=1e1e2e" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoom26042604&layout=compact&langs_count=8&border_color=313244&title_color=fab387&text_color=cdd6f4&bg_color=1e1e2e" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=zoom26042604&hide_border=true&background=0D1117&border=0D1117&stroke=FA810F&ring=FAB387&fire=FA810F&currStreakNum=C9D1D9&currStreakLabel=FA810F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=zoom26042604&border=313244&background=1e1e2e&stroke=313244&ring=fab387&fire=fab387&currStreakNum=cdd6f4&currStreakLabel=fab387&sideNums=cdd6f4&sideLabels=cdd6f4&dates=6c7086" />
 </p>
 
-<img width="100%" alt="Projects" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/projects.svg"/>
+<img width="100%" alt="Projects" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/projects.svg?v=mp"/>
 
 **[azrael](https://github.com/zoom26042604/azrael)** `s` is a TypeScript web application I'm currently building.
 
@@ -57,21 +55,19 @@ As hobbies, I love reading, playing games, following tech news, and tinkering wi
 
 _f — finished · s — stable / maintained · wip — work in progress_
 
+<img width="100%" alt="Contact" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/contact.svg?v=mp"/>
+
 <p align="center">
-  <a href="https://linkedin.com/in/nathan-ferre-0ba3a438a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nathan_FERRE-FA810F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nathanferre06@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact-FA810F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/zoom26042604"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-zoom26042604-FA810F?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nathan-ferre-0ba3a438a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nathan_FERRE-fab387?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=181825" /></a>
+  <a href="mailto:nathanferre06@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact-fab387?style=for-the-badge&logo=gmail&logoColor=cdd6f4&labelColor=181825" /></a>
+  <a href="https://github.com/zoom26042604"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-zoom26042604-fab387?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=181825" /></a>
 </p>
 
 <details>
-  <summary>contact & socials</summary>
-
-_LinkedIn_ › [Nathan FERRE](https://linkedin.com/in/nathan-ferre-0ba3a438a)
+  <summary>more contact</summary>
 
 _Mail_ › <nathan.ferre@ynov.com> ou <nathanferre06@gmail.com>
 
-_GitHub_ › zoom26042604
-
 </details>
 
-<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:FAB387,100:FA810F&height=120&section=footer&fontFamily=Raleway"/>
+<img width="100%" alt="Footer" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/footer.svg?v=mp"/>
