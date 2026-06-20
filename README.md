@@ -1,7 +1,7 @@
 <img width="100%" alt="Nathan FERRE" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/header.svg"/>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=zoom26042604&style=for-the-badge&color=fab387&labelColor=181825&label=PROFILE+VIEWS" />
+  <img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=zoom26042604.profile&left_color=%23181825&right_color=%23fab387&left_text=Profile%20Views" />
 </p>
 
 <img width="100%" alt="About Me" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/about-me.svg"/>
