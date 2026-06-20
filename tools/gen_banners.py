@@ -74,6 +74,27 @@ def section_banner(filename, text):
     print("ok:", filename)
 
 
+def sub_banner(filename, text):
+    """Mini-banner de categorie : pilule Mocha auto-large + titre Baldur peach."""
+    h, size = 46, 25
+    stripe_x, stripe_w = 14, 5
+    x_left = stripe_x + stripe_w + 12
+    d, wunits = text_path(text)
+    scale = size / _upm
+    tw = wunits * scale
+    w = int(x_left + tw + 20)
+    ty = h / 2 + (_cap * scale) / 2
+    title = (f'<path d="{d}" fill="{C["peach"]}" '
+             f'transform="translate({x_left:.2f},{ty:.2f}) scale({scale:.5f},{-scale:.5f})"/>')
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="{w}" height="{h}">
+  <rect x="1" y="1" width="{w-2}" height="{h-2}" rx="12" fill="{C['mantle']}" stroke="{C['surface0']}" stroke-width="1.5"/>
+  <rect x="{stripe_x}" y="{(h-24)//2}" width="{stripe_w}" height="24" rx="2.5" fill="{C['peach']}"/>
+  {title}
+</svg>'''
+    open(os.path.join(OUT, filename), "w").write(svg)
+    print("ok:", filename)
+
+
 def header_banner():
     w, h = 900, 220
     name, nw = title_svg("Nathan FERRE", 92, C["peach"], w, h)
@@ -144,4 +165,17 @@ if __name__ == "__main__":
     section_banner("stats.svg", "Stats")
     section_banner("contact.svg", "Contact")
     footer_banner()
+    cats = [
+        ("cat-languages.svg", "Languages"),
+        ("cat-frontend.svg", "Frontend"),
+        ("cat-backend.svg", "Backend"),
+        ("cat-build.svg", "Build & Tooling"),
+        ("cat-devops.svg", "DevOps & Infra"),
+        ("cat-vcs.svg", "Version Control & CI"),
+        ("cat-netsec.svg", "Networking & Security"),
+        ("cat-data.svg", "Databases"),
+        ("cat-tools.svg", "Tools & Productivity"),
+    ]
+    for fn, txt in cats:
+        sub_banner(fn, txt)
     print("done")
