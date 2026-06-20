@@ -2,8 +2,8 @@
 
 <img width="100%" alt="About Me" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/about-me.svg"/>
 
-I'm a student at **Ynov Campus** preparing a **Bachelor in Infrastructure**.
-I design and build full-stack web applications and I'm actively expanding into cloud, containerization, orchestration, and Cloud deployments.
+I'm a computer science student moving into infrastructure, and more particularly **DevOps**.
+I design and build full-stack web applications and I'm actively expanding into cloud, containerization, orchestration, and CI/CD.
 
 I'm equally comfortable writing a REST API in Go, spinning up a Docker environment, or fine-tuning a UI in Tailwind.
 As hobbies, I love reading, playing games, following tech news, and tinkering with anything that runs on a server.
@@ -11,19 +11,46 @@ As hobbies, I love reading, playing games, following tech news, and tinkering wi
 <img width="100%" alt="Technologies" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/technologies.svg"/>
 
 <p align="center">
-  <img alt="Languages: TypeScript, JavaScript, Python, Go, Bash, Flutter" src="https://skillicons.dev/icons?i=ts,js,py,go,bash,flutter&theme=dark" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=fab387" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=fab387" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=fab387" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=fab387" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=fab387" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=fab387" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-1e1e2e?style=for-the-badge&logo=dart&logoColor=fab387" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=fab387" />
 </p>
 
 <p align="center">
-  <img alt="Frontend: React, Next.js, Tailwind, HTML, CSS" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+  <img alt="React" src="https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=fab387" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-1e1e2e?style=for-the-badge&logo=angular&logoColor=fab387" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=nextdotjs&logoColor=fab387" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-1e1e2e?style=for-the-badge&logo=tailwindcss&logoColor=fab387" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=fab387" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1e1e2e?style=for-the-badge&logo=css&logoColor=fab387" />
 </p>
 
 <p align="center">
-  <img alt="Backend & DevOps: Node.js, Express, Docker, Kubernetes, Nginx" src="https://skillicons.dev/icons?i=nodejs,express,docker,kubernetes,nginx&theme=dark" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=fab387" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-1e1e2e?style=for-the-badge&logo=express&logoColor=fab387" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-1e1e2e?style=for-the-badge&logo=dotnet&logoColor=fab387" />
 </p>
 
 <p align="center">
-  <img alt="Tools: PostgreSQL, MySQL, Git, GitHub, Figma, Postman" src="https://skillicons.dev/icons?i=postgres,mysql,git,github,figma,postman&theme=dark" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=fab387" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-1e1e2e?style=for-the-badge&logo=kubernetes&logoColor=fab387" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-1e1e2e?style=for-the-badge&logo=nginx&logoColor=fab387" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-1e1e2e?style=for-the-badge&logo=githubactions&logoColor=fab387" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=fab387" />
+</p>
+
+<p align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=fab387" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=fab387" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=fab387" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=fab387" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-1e1e2e?style=for-the-badge&logo=figma&logoColor=fab387" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-1e1e2e?style=for-the-badge&logo=postman&logoColor=fab387" />
 </p>
 
 <img width="100%" alt="Stats" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/stats.svg"/>
@@ -59,15 +86,8 @@ _f — finished · s — stable / maintained · wip — work in progress_
 
 <p align="center">
   <a href="https://linkedin.com/in/nathan-ferre-0ba3a438a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nathan_FERRE-fab387?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=181825" /></a>
-  <a href="mailto:nathanferre06@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact-fab387?style=for-the-badge&logo=gmail&logoColor=cdd6f4&labelColor=181825" /></a>
+  <a href="mailto:contact@nathan-ferre.fr"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact-fab387?style=for-the-badge&logo=gmail&logoColor=cdd6f4&labelColor=181825" /></a>
   <a href="https://github.com/zoom26042604"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-zoom26042604-fab387?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=181825" /></a>
 </p>
-
-<details>
-  <summary>more contact</summary>
-
-_Mail_ › <nathan.ferre@ynov.com> ou <nathanferre06@gmail.com>
-
-</details>
 
 <img width="100%" alt="Footer" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/footer.svg"/>
