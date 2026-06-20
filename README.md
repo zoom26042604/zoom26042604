@@ -39,6 +39,10 @@ As hobbies, I love reading, playing games, following tech news, and tinkering wi
 
 <img width="100%" alt="Projects" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/projects.svg"/>
 
+**[RedPandaFlow](https://github.com/RedPandaFlow)** `s` is a real-time collaborative kanban (Trello-like) — ASP.NET Core / .NET 10 + SignalR backend, React 19 / Tailwind frontend, fully containerized with CI/CD.
+
+**[Asteria](https://github.com/AsteriaJDR)** `wip` is a tabletop RPG (JDR) web platform built with Angular and a dedicated API.
+
 **[azrael](https://github.com/zoom26042604/azrael)** `s` is my personal portfolio, built in TypeScript and i'm currently building it.
 
 **[cv](https://github.com/zoom26042604/cv)** `s` is my personal CV, built with TypeScript and kept up to date.
