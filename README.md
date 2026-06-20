@@ -1,10 +1,10 @@
-<img width="100%" alt="Nathan FERRE" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/header.svg?v=mp"/>
+<img width="100%" alt="Nathan FERRE" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/header.svg"/>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=zoom26042604&color=fab387&style=flat&label=Profile+Views" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=zoom26042604&style=for-the-badge&color=fab387&labelColor=181825&label=PROFILE+VIEWS" />
 </p>
 
-<img width="100%" alt="About Me" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/about-me.svg?v=mp"/>
+<img width="100%" alt="About Me" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/about-me.svg"/>
 
 I'm a student at **Ynov Campus** preparing a **Bachelor in Infrastructure**.
 I design and build full-stack web applications and I'm actively expanding into cloud, containerization, orchestration, and Cloud deployments.
@@ -12,7 +12,7 @@ I design and build full-stack web applications and I'm actively expanding into c
 I'm equally comfortable writing a REST API in Go, spinning up a Docker environment, or fine-tuning a UI in Tailwind.
 As hobbies, I love reading, playing games, following tech news, and tinkering with anything that runs on a server.
 
-<img width="100%" alt="Technologies" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/technologies.svg?v=mp"/>
+<img width="100%" alt="Technologies" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/technologies.svg"/>
 
 <p align="center">
   <img alt="Languages: TypeScript, JavaScript, Python, Go, Bash, Flutter" src="https://skillicons.dev/icons?i=ts,js,py,go,bash,flutter&theme=dark" />
@@ -30,7 +30,7 @@ As hobbies, I love reading, playing games, following tech news, and tinkering wi
   <img alt="Tools: PostgreSQL, MySQL, Git, GitHub, Figma, Postman" src="https://skillicons.dev/icons?i=postgres,mysql,git,github,figma,postman&theme=dark" />
 </p>
 
-<img width="100%" alt="Stats" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/stats.svg?v=mp"/>
+<img width="100%" alt="Stats" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/stats.svg"/>
 
 <p align="center">
   <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zoom26042604&show_icons=true&count_private=true&include_all_commits=true&border_color=313244&title_color=fab387&icon_color=fab387&text_color=cdd6f4&bg_color=1e1e2e" />
@@ -41,7 +41,7 @@ As hobbies, I love reading, playing games, following tech news, and tinkering wi
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=zoom26042604&border=313244&background=1e1e2e&stroke=313244&ring=fab387&fire=fab387&currStreakNum=cdd6f4&currStreakLabel=fab387&sideNums=cdd6f4&sideLabels=cdd6f4&dates=6c7086" />
 </p>
 
-<img width="100%" alt="Projects" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/projects.svg?v=mp"/>
+<img width="100%" alt="Projects" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/projects.svg"/>
 
 **[azrael](https://github.com/zoom26042604/azrael)** `s` is a TypeScript web application I'm currently building.
 
@@ -55,7 +55,7 @@ As hobbies, I love reading, playing games, following tech news, and tinkering wi
 
 _f — finished · s — stable / maintained · wip — work in progress_
 
-<img width="100%" alt="Contact" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/contact.svg?v=mp"/>
+<img width="100%" alt="Contact" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/contact.svg"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/nathan-ferre-0ba3a438a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nathan_FERRE-fab387?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=181825" /></a>
@@ -70,4 +70,4 @@ _Mail_ › <nathan.ferre@ynov.com> ou <nathanferre06@gmail.com>
 
 </details>
 
-<img width="100%" alt="Footer" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@main/banners/footer.svg?v=mp"/>
+<img width="100%" alt="Footer" src="https://cdn.jsdelivr.net/gh/zoom26042604/zoom26042604@6ed9f5395ae0248955ca851e859dad4feb743982/banners/footer.svg"/>
